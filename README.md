@@ -1,4 +1,4 @@
-# Locate_Buildings
+# Locate Buildings
 U-net model trained for locating buildings in GPS-photos
 
 # Acknowledgements 
